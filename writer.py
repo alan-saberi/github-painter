@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 # Configure these variables
 REPO_PATH = './'  # Set to your local repo path
-START_DATE = datetime(2023, 1, 1)  # Adjust your start date here
+START_DATE = datetime(2024, 1, 1)  # Adjust your start date here
 STRING_TO_PAINT = "ALIREZA SABERI"  # The string you want to paint
 FILENAME = 'contribution.txt'  # The file to modify for each commit
 
